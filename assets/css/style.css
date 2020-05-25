@@ -21,9 +21,6 @@ main {
 }
 
 .nav-header {
-  position: absolute;
-  top: 0;
-  left: 10%;
   min-height: 10vh;
   font-size: 1rem;
   display: flex;

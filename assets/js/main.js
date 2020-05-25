@@ -142,8 +142,8 @@ barba.init({
     {
       namespace: "mountain",
       beforeEnter() {
-        logo.href = "/index.html";
         animationMountain();
+        logo.href = "/index.html";
       },
       beforeLeave() {
         mountainTl.destroy();
